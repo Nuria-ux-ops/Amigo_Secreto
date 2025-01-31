@@ -2,7 +2,7 @@
 <h2>Desafío para Oracle/Alura</h2>
 <h3>Estado del proyecto: Finalizado</h3>
 
-<p>Primero, me gustaría aclarar para todo aquél que accesa a mi repositorio, que este proyecto fue subido a GitHub sin estar sincronizado con mi GitHub desktop ya que no está instalado en mi pc.
+<p>Primero, me gustaría aclarar para todo aquél que acceda a mi repositorio, que este proyecto fue subido a GitHub sin estar sincronizado con mi GitHub desktop ya que no está instalado en mi pc.
 
 Segundo, es un desafío para Alura que trata sobre un sorteo entre mis amigos. Si necesitás sortear algo entre tus amigos este desafío te puede ayudar =D.
 
