@@ -14,7 +14,8 @@ Ahora paso a explicarte cómo funciona:
 
 2- Aprieta en el botón "Sortear Amigos" y aparecerá un Ganador.
 
-![sortear](https://github.com/user-attachments/assets/f336c1f1-1036-4cc8-808e-f4d51b657ec0)
+![sorteados](https://github.com/user-attachments/assets/7c89ef2f-440e-4d6a-bb7f-067e8be4b997)
+
 </p>
 
 Es bastante sencillo pero me costó un par de semanas lograrlo. Agradezco tu atención y espero puedas dejarme comentarios.
